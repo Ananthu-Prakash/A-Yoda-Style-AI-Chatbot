@@ -1,4 +1,4 @@
-# 🧙‍♂️ Rajbot — The Yoda-Style AI Mentor  
+# 🧙‍♂️ RajBot — The Yoda-Style AI Mentor  
 A mystical chatbot built with **Gradio**, **LangChain**, and **Gemini 2.5 Flash**.  
 Rajbot speaks like **Yoda from Star Wars**, using inverted syntax, cryptic wisdom, and calm Jedi‑master tone.  
 He never breaks character — guiding you with philosophical insights.
